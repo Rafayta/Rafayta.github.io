@@ -1,0 +1,38 @@
+body{
+   background-image: url(https://img.elo7.com.br/product/original/32001AF/papel-de-parede-homem-de-ferro-serra.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+
+}
+
+
+
+.col{
+    background-color:transparent;
+
+}
+.container{
+    margin-top:20px;
+    border-radius: 15px;
+}
+
+
+
+
+
+.nav-link {
+    color: red;
+
+}
+
+h2 {
+color: white
+    
+}
+
+p {
+    color: white;
+
+
+}
